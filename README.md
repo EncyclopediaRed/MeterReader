@@ -1,5 +1,6 @@
 # MeterReader
 A remote meter reader that snaps a picture of the meter and sends it to an email address you specify.
+![Finished Build of The Meter Reader]()
 
 # Why It Exists
 Recently my office needed a way to record water meter dials at the end of each month so we could send them to a 3rd party billing service. The water meters were inaccessible without a lot of effort, so we needed a way to read the meters remotely. The reader needed to be able to snap a picture of the meter dial in the dark and be suspended high enough to be able to keep the photo in focus. An irrigation valve cover was perfect for this as it had the holes at the bottom to clear the waterpipes going in and out of the meter. It also allowed for enough height for the installed camera, and was cheap ;).
@@ -20,7 +21,7 @@ Connected via WiFi, the Raspberry Pi will check the current day and time with a 
 * Solder & Soldering Iron
 
 # Building
-
+![Electronics Mockup Sketch](https://github.com/EncyclopediaRed/MeterReader/blob/master/Water%20Meter%20Sketch.png)
 
 Resources:
 - http://picamera.readthedocs.io/
