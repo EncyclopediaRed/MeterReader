@@ -34,7 +34,8 @@ The meterread.py code is really just a hodgpodge of bits of scripts from similia
 * https://www.raspberrypi.org/forums/viewtopic.php?t=60660&p=454138
 * http://code.activestate.com/recipes/473810-send-an-html-email-with-embedded-image-and-plain-t/
   * (email section)
-* https://wiki.debian.org/TimeZoneChanges (Changing time on the Pi)
+* https://wiki.debian.org/TimeZoneChanges
+  * (Changing time on the Pi)
 * https://www.raspberrypi.org/documentation/linux/usage/cron.md
   * (Setting cron job up on Pi)
 * http://raspberrypituts.com/raspberry-pi-simple-cron-jobs-explanation/ 
