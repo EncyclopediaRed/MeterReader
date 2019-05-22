@@ -6,11 +6,10 @@ Recently my office needed a way to record water meter dials at the end of each m
 
 After testing a number of LED lights, the best for the job ended up being an infrared LED. It was bright enough in photos (using a Pi NoIR Camera) and didn't lens flare against the plastic cover of the meter. The Pi NoIR Camera perfectly picked up the light from the LED and was able to take incredibly clear and detailed photos of the meter.
 
-Connected via WiFi, the Raspberry Pi will check the current day and time with a cronjob and if the Day is the last day of the current Month, at 01:00 the cronjob will fire meterread.py. Using, 
+Connected via WiFi, the Raspberry Pi will check the current day and time with a cronjob and if the Day is the last day of the current Month, at 01:00 the cronjob will fire [meterread.py](https://github.com/EncyclopediaRed/MeterReader/blob/master/meterread.py).
 
 # Materials List
 * Irrigation Valve Cover
-![Valve Cover](https://github.com/EncyclopediaRed/MeterReader/blob/master/Photos/01-Canister.jpg)
 * Raspberry Pi Model B
 * Infrared LED
 * Jumper Wires
@@ -19,6 +18,9 @@ Connected via WiFi, the Raspberry Pi will check the current day and time with a 
 * Raspberry Pi Camera Cable
 * Heat Shrink Tubing
 * Solder & Soldering Iron
+
+# Building
+
 
 Resources:
 - http://picamera.readthedocs.io/
