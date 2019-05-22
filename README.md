@@ -26,13 +26,18 @@ Connected via WiFi, the Raspberry Pi will check the current day and time with a 
 ![Electronics Mockup Sketch](https://github.com/EncyclopediaRed/MeterReader/blob/master/Water%20Meter%20Sketch.png)
 ![Electronics Actual Build](https://github.com/EncyclopediaRed/MeterReader/blob/master/Photos/02-Pi-Wire-and-Cables.jpg)
 
-Resources:
-- http://picamera.readthedocs.io/
-- https://www.raspberrypi.org/documentation/usage/camera/python/README.md
-- https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
-- https://www.raspberrypi.org/forums/viewtopic.php?t=60660&p=454138
-- http://code.activestate.com/recipes/473810-send-an-html-email-with-embedded-image-and-plain-t/ (email section)
-- https://wiki.debian.org/TimeZoneChanges (Changing time on the Pi)
-- https://www.raspberrypi.org/documentation/linux/usage/cron.md (Setting cron job up on Pi)
-- http://raspberrypituts.com/raspberry-pi-simple-cron-jobs-explanation/ (more cron help)
-- https://www.remot3.it (connecting to the Raspberry Pi remotely without port forwarding)
+# Resources
+The meterread.py code is really just a hodgpodge of bits of scripts from similiar projects. I've included any references to any of the code and help I found below.
+* http://picamera.readthedocs.io/
+* https://www.raspberrypi.org/documentation/usage/camera/python/README.md
+* https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
+* https://www.raspberrypi.org/forums/viewtopic.php?t=60660&p=454138
+* http://code.activestate.com/recipes/473810-send-an-html-email-with-embedded-image-and-plain-t/
+  * (email section)
+* https://wiki.debian.org/TimeZoneChanges (Changing time on the Pi)
+* https://www.raspberrypi.org/documentation/linux/usage/cron.md
+  * (Setting cron job up on Pi)
+* http://raspberrypituts.com/raspberry-pi-simple-cron-jobs-explanation/ 
+  * (more cron help)
+* https://www.remot3.it 
+  * (connecting to the Raspberry Pi remotely without port forwarding)
