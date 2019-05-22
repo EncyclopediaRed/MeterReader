@@ -1,6 +1,6 @@
 # MeterReader
 A remote meter reader that snaps a picture of the meter and sends it to an email address you specify.
-![Finished Build of The Meter Reader](https://github.com/EncyclopediaRed/MeterReader/blob/master/Photos/00-Finished-Meter-Reader.jpg)
+![Finished Build of The Meter Reader](/Photos/00-Finished-Meter-Reader.jpg)
 ![Finished Meter Reader with top seperated from body of the irrigation valve cover](https://github.com/EncyclopediaRed/MeterReader/blob/master/Photos/06-Top-Seperated.jpg)
 ![Underside of the Meter Reader Showing the Camera and LED](https://github.com/EncyclopediaRed/MeterReader/blob/master/Photos/09-Underside.jpg)
 
