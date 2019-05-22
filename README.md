@@ -29,9 +29,13 @@ Connected via WiFi, the Raspberry Pi will check the current day and time with a 
 # Resources
 The meterread.py code is really just a hodgpodge of bits of scripts from similiar projects. I've included any references to any of the code and help I found below.
 * http://picamera.readthedocs.io/
-* https://www.raspberrypi.org/documentation/usage/camera/python/README.md
+  * Pi Camera Docs - A Python Interface for the Raspberry Pi Camera
+* https://projects.raspberrypi.org/en/projects/getting-started-with-picamera
+  * Getting Started With Pi Camera
 * https://www.raspberrypi.org/documentation/raspbian/applications/camera.md
+  * Pi Camera Module Documentation
 * https://www.raspberrypi.org/forums/viewtopic.php?t=60660&p=454138
+  * How to see a live feed on the camera to help adjust the focus (which is manually done)
 * http://code.activestate.com/recipes/473810-send-an-html-email-with-embedded-image-and-plain-t/
   * (email section)
 * https://wiki.debian.org/TimeZoneChanges
