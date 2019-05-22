@@ -23,7 +23,7 @@ Connected via WiFi, the Raspberry Pi will check the current day and time with a 
 * Solder & Soldering Iron
 
 # Building
-![Electronics Mockup Sketch](Water Meter Sketch.png)
+![Electronics Mockup Sketch](Water%20Meter%20Sketch.png)
 ![Electronics Actual Build](Photos/02-Pi-Wire-and-Cables.jpg)
 
 # Resources
