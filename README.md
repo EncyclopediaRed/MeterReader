@@ -44,5 +44,5 @@ The meterread.py code is really just a hodgpodge of bits of scripts from similia
   * (Setting cron job up on Pi)
 * http://raspberrypituts.com/raspberry-pi-simple-cron-jobs-explanation/ 
   * (more cron help)
-* https://www.remot3.it 
+* [https://www.remote.it ](https://www.remote.it/)
   * (connecting to the Raspberry Pi remotely without port forwarding)
